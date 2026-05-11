@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy - Rain Sounds Skill</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 40px;
+      color: #333;
+      max-width: 800px;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Privacy Policy – Rain Sounds Skill</h1>
+
+  <p><strong>Effective Date:</strong> May 11, 2026</p>
+
+  <p>
+    This Alexa Skill (“Rain Sounds”) is designed to provide relaxing ambient rain sounds for sleep, focus, relaxation, and meditation.
+  </p>
+
+  <h2>Data Collection</h2>
+  <p>
+    This skill does not collect, store, or share any personal data from users.
+  </p>
+
+  <h2>Usage of Information</h2>
+  <p>
+    The skill does not request, access, or transmit any personal information. It only plays audio content requested by the user.
+  </p>
+
+  <h2>Third Parties</h2>
+  <p>
+    No user data is shared with third parties, as no data is collected.
+  </p>
+
+  <h2>Security</h2>
+  <p>
+    Since no personal data is stored, there is no risk of data exposure or misuse.
+  </p>
+
+  <h2>Contact</h2>
+  <p>
+    If you have any questions about this Privacy Policy, please contact the developer.
+  </p>
+
+  <p><em>End of Privacy Policy</em></p>
+
+</body>
+</html>
